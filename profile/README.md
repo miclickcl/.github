@@ -8,4 +8,4 @@
 </p>
 <br>
 <br>
-<p align="center">Copyright © 2024 Click SpA. All rights reserved</p>
+<p align="center">Copyright © 2024 Mi Click Limitada. All rights reserved</p>
